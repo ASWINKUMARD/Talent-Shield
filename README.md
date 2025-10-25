@@ -48,3 +48,9 @@
 - ROC-AUC Score
 
 # LightGBM efficiently handles both numeric and categorical features, producing fast and accurate predictions. 
+
+### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
